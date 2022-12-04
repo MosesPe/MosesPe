@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MosesPe
 - 👀 I’m interested in Just about anything!
-- 🌱 I’m currently learning Java on sololearn
+- 🌱 I’m currently learning JWT auth
 - 💞️ I’m looking to collaborate on anything and everything
-- 📫 How to reach me ...
+- 📫 reach me at pekarkids@gmail.com
 
 <!---
 MosesPe/MosesPe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
